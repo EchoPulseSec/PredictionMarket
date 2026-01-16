@@ -2,7 +2,7 @@
 ---
 > Languages: [English](README.md) | [Chinese](README_CN.md)
 
-> Full-Stack Checklist Based on Real Security Incidents from Polymarket, Augur, and Other Platforms
+> Full-Stack Checklist Based on Real Security Incidents from Polymarket, Kalshi, opinionlabsxyz, Augur, and Other Platforms
 
 ## Preface
 
